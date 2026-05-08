@@ -1,3 +1,4 @@
+# ClimateForecaster-AI
 🚀 1. Project Title / Headline Global Temperature Prediction App with Random Forest Modeling
 
 📌 2. Short Description / Purpose This project is an interactive machine learning application designed to predict global temperatures based on historical climate data. By analyzing land temperature records, the model identifies climate trends and provides real-time forecasts to help users understand global warming patterns through a user-friendly interface.
